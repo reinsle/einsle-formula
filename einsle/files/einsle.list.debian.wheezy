@@ -1,0 +1,4 @@
+# !!! This file is managed using salt !!!
+
+# debian package repository for einsle
+deb http://debian.einsle.de/debian wheezy main
